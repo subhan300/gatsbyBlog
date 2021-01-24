@@ -1,21 +1,9 @@
-// import React from 'react'
-// import {Link} from "gatsby"
-// function index() {
-//     return (
-//         <div>
-//             <h1>move on blogging website</h1>
-//           <Link to="/Articles">Click on it to move there</Link>
-//         </div>
-//     )
-// }
-
-// export default index
 import React from 'react'
 import Nav from "../components/nav"
 import Card from "../components/card"
 import Carousel from "../components/carousel"
 import Footer from "../components/footer"
-function index() {
+function Articles() {
     return (
         <div class="containerFluid">
              <Nav />
@@ -45,4 +33,4 @@ function index() {
     )
 }
 
-export default index
+export default Articles
