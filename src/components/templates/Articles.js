@@ -53,7 +53,7 @@ justifyContent:"center",display:"flex"}}>
 
 
 </Col>
-<Col  class="textCenter"   lg="2" xs={12} md={12}  sm={12}>3 of 3</Col>
+<Col  class="textCenter"   lg="2" xs={12} md={12}  sm={12} style={{color:"white"}}>3 of 3</Col>
 
 </Row>
 
