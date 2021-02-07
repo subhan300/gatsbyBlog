@@ -45,7 +45,7 @@ justifyContent:"center",display:"flex"}}>
 
 <br></br>{Article_Writing}</p>
 
-<div  style={{border:"2px solid green",textAlign:"center",
+<div  style={{textAlign:"center",
   color:"orange"}}>
     <img src={l} class="imgFluid"  />
     </div>
