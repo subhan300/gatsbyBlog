@@ -13,6 +13,7 @@ function Articles({pageContext}) {
     console.log(Title,"title")
     console.log(l)
 
+
     return (
 
 
@@ -44,8 +45,10 @@ justifyContent:"center",display:"flex"}}>
 
 <br></br>{Article_Writing}</p>
 
-<div  style={{border:"2px solid green",textAlign:"center",padding:"30px",
-  color:"orange",backgroundColor:"black"}}><img src={l} class="imgFluid"  /></div>
+<div  style={{border:"2px solid green",textAlign:"center",
+  color:"orange"}}>
+    <img src={l} class="imgFluid"  />
+    </div>
 
 
 

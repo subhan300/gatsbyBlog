@@ -10,7 +10,7 @@ function Articles() {
              <div><Carousel /></div>
          
            <div class="container py-5"  >
-         <div className="py-2" style={{textAlign:"center"}}>  <h1>ALL BLOGS ! hey</h1>
+         <div className="py-2" style={{textAlign:"center"}}>  <h1>ALL BLOGS </h1>
                </div>
          
    {/* card */}
